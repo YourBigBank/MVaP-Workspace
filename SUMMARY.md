@@ -20,4 +20,10 @@
 
 ***
 
-* [Setup Chart of Accounts](setup-chart-of-accounts.md)
+* [Setup Chart of Accounts](setup-chart-of-accounts/README.md)
+  * [The process](setup-chart-of-accounts/the-process.md)
+  * [The accounts](setup-chart-of-accounts/the-accounts.md)
+  * [Diagram of the system](setup-chart-of-accounts/diagram-of-the-system.md)
+  * [How to do it](setup-chart-of-accounts/how-to-do-it.md)
+  * [Evidence that it's done right](setup-chart-of-accounts/evidence-that-its-done-right.md)
+  * [Evidence that it's done wrong](setup-chart-of-accounts/evidence-that-its-done-wrong.md)
