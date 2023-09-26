@@ -1,25 +1,19 @@
 # Table of contents
 
 * [accounting-mva-for-business-owners](README.md)
-
-## Quickbooks Setup
-
-* [Intro:](quickbooks-setup/intro.md)
-* [Quickbooks Setup](quickbooks-setup/quickbooks-setup/README.md)
-  * [Why](quickbooks-setup/quickbooks-setup/why.md)
-  * [What](quickbooks-setup/quickbooks-setup/what/README.md)
-    * [Diagram of the System](quickbooks-setup/quickbooks-setup/what/diagram-of-the-system.md)
-  * [How to do it](quickbooks-setup/quickbooks-setup/how-to-do-it.md)
-  * [Evidence it's done right](quickbooks-setup/quickbooks-setup/evidence-its-done-right/README.md)
-    * [What to look for](quickbooks-setup/quickbooks-setup/evidence-its-done-right/what-to-look-for.md)
-    * [Downstream effects](quickbooks-setup/quickbooks-setup/evidence-its-done-right/downstream-effects.md)
-  * [Evidence it's done wrong](quickbooks-setup/quickbooks-setup/evidence-its-done-wrong/README.md)
-    * [What to look for](quickbooks-setup/quickbooks-setup/evidence-its-done-wrong/what-to-look-for.md)
-    * [Downstream effects](quickbooks-setup/quickbooks-setup/evidence-its-done-wrong/downstream-effects.md)
-  * [Frequency](quickbooks-setup/quickbooks-setup/frequency.md)
-
-***
-
+* [Introduction](introduction.md)
+* [Quickbooks Setup](quickbooks-setup/README.md)
+  * [Why](quickbooks-setup/why.md)
+  * [What](quickbooks-setup/what/README.md)
+    * [Diagram of the System](quickbooks-setup/what/diagram-of-the-system.md)
+  * [How to do it](quickbooks-setup/how-to-do-it.md)
+  * [Evidence it's done right](quickbooks-setup/evidence-its-done-right/README.md)
+    * [What to look for](quickbooks-setup/evidence-its-done-right/what-to-look-for.md)
+    * [Downstream effects](quickbooks-setup/evidence-its-done-right/downstream-effects.md)
+  * [Evidence it's done wrong](quickbooks-setup/evidence-its-done-wrong/README.md)
+    * [What to look for](quickbooks-setup/evidence-its-done-wrong/what-to-look-for.md)
+    * [Downstream effects](quickbooks-setup/evidence-its-done-wrong/downstream-effects.md)
+  * [Frequency](quickbooks-setup/frequency.md)
 * [Setup Chart of Accounts](setup-chart-of-accounts/README.md)
   * [The process](setup-chart-of-accounts/the-process.md)
   * [The accounts](setup-chart-of-accounts/the-accounts.md)
@@ -27,3 +21,4 @@
   * [How to do it](setup-chart-of-accounts/how-to-do-it.md)
   * [Evidence that it's done right](setup-chart-of-accounts/evidence-that-its-done-right.md)
   * [Evidence that it's done wrong](setup-chart-of-accounts/evidence-that-its-done-wrong.md)
+* [Onboarding process](onboarding-process.md)
