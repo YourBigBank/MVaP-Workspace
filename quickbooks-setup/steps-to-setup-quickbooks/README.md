@@ -1,6 +1,4 @@
-# What
-
-What you are doing
+# Steps to Setup Quickbooks
 
 1. Link Your Bank Accounts to Quickbooks
 2. Link Your Merchant Accounts to Quickbooks
@@ -9,9 +7,8 @@ What you are doing
 5. Add Vendor Lists
 6. Format Your Invoices
 7. Set Up Payroll
-8.
-   1. Add Employees
-   2. Add Contractors
-9. Set Up Quickbooks Invoices
-10. Set Up Products and Services In Quickbooks
-11. Set Up Minimal Viable Accounting Processes
+8. Add Employees
+9. Add Contractors
+10. Set Up Quickbooks Invoices
+11. Set Up Products and Services In Quickbooks
+12. Set Up Minimal Viable Accounting Processes
