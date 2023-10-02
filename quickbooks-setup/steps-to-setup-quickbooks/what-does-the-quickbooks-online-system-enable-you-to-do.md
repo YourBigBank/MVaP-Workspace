@@ -1,3 +1,0 @@
-# Diagram of the System
-
-![](https://lh3.googleusercontent.com/Wud9uxx0wD75Vxr2ku3JCKXc-ZeqyNgGtVsnKccLRTIzL8jK1fC6keONw\_pfctLKTlN5SxsX8frcD6p0Bo33EDiUz1IzUCemwMUUyUOv2EFxnFfZvXEsmajjlBzHVmTf9Bt9pTyyLPc7ReeyDP0GEgk)
