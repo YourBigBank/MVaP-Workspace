@@ -13,6 +13,8 @@
   * [Add Vendor Lists](finance-setup/quickbooks-setup/add-vendor-lists.md)
   * [Format your Invoices](finance-setup/quickbooks-setup/format-your-invoices.md)
   * [Set Up Payroll](finance-setup/quickbooks-setup/set-up-payroll.md)
+  * [Add Employees](finance-setup/quickbooks-setup/add-employees.md)
+  * [Add Contractors](finance-setup/quickbooks-setup/add-contractors.md)
   * [Set Up Quickbooks Invoices](finance-setup/quickbooks-setup/set-up-quickbooks-invoices.md)
   * [Set Up Products and Services in Quickbooks](finance-setup/quickbooks-setup/set-up-products-and-services-in-quickbooks.md)
   * [Set Up Minimal Viable Accounting Processes](finance-setup/quickbooks-setup/set-up-minimal-viable-accounting-processes.md)
