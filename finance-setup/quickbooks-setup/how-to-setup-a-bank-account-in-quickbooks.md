@@ -1,6 +1,6 @@
 # How to Setup a Bank Account in Quickbooks
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/Set up Bank Accts in QB" alt="" class="gitbook-drawing">
 
 1. &#x20;**Sign in to QuickBooks Online:**
    * [ ] Go to the QuickBooks Online website ([https://quickbooks.intuit.com/](https://quickbooks.intuit.com/)).

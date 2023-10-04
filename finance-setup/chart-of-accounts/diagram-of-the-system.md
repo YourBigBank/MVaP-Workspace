@@ -1,2 +1,0 @@
-# Diagram of the system
-
