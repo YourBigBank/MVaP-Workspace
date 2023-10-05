@@ -102,7 +102,7 @@ Want to check your work? Open the dropdown below
 
 <details>
 
-<summary>How To Know You Did it Well</summary>
+<summary>How To Know You Linked Your Accounts Correctly</summary>
 
 Once you've linked your bank accounts to QuickBooks Online, you should look for several indicators to confirm that the linkage was successful. Here's what you should check for:
 
@@ -156,7 +156,7 @@ Think you messed up? Open the dropdown below
 
 <details>
 
-<summary>What to look for if you suspect you Linked Your Bank Accounts Unsuccessfully</summary>
+<summary>How to Know You Linked Your Bank Accounts Unsuccessfully</summary>
 
 If you suspect that you have not successfully linked your bank accounts to QuickBooks Online, there are several signs and issues to look for. An unsuccessful link can lead to discrepancies in your financial records and hinder your ability to manage your finances effectively. Here are some indicators that your bank accounts may not be linked successfully:
 
@@ -214,7 +214,7 @@ Still feel like quitting? Open the dropdown below
 
 <details>
 
-<summary>Negative Downstream Effects</summary>
+<summary>Negative Downstream Effects of Linking Your Accounts Incorrectly</summary>
 
 Setting up your bank accounts and financial records correctly in QuickBooks Online should generally lead to positive outcomes as it helps improve financial accuracy and efficiency.&#x20;
 
