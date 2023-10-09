@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Demo](demo.md)
 
 ## 💵 Finance Setup
 
