@@ -28,14 +28,14 @@
     * [Assets Accounts](finance-setup/chart-of-accounts/introduction/assets-accounts.md)
     * [Liability Accounts](finance-setup/chart-of-accounts/introduction/liability-accounts.md)
     * [Equity Accounts](finance-setup/chart-of-accounts/introduction/equity-accounts.md)
-  * [How to do it](finance-setup/chart-of-accounts/how-to-do-it.md)
-  * [Evidence that it's done right](finance-setup/chart-of-accounts/evidence-that-its-done-right.md)
-  * [Evidence that it's done wrong](finance-setup/chart-of-accounts/evidence-that-its-done-wrong.md)
+  * [How to set up a chart of accounts?](finance-setup/chart-of-accounts/how-to-set-up-a-chart-of-accounts.md)
 
 ## 🚶 Finance Operations
 
 * [Transaction Categorization](finance-operations/transaction-categorization/README.md)
   * [Part 1: Transfers](finance-operations/transaction-categorization/part-1-transfers/README.md)
+    * [Guide: "How Do You Categorize Transfers in Quickbooks?"](finance-operations/transaction-categorization/part-1-transfers/guide-how-do-you-categorize-transfers-in-quickbooks.md)
+    * [FAQ](finance-operations/transaction-categorization/part-1-transfers/faq.md)
     * [Brokerage Account to Bank Account](finance-operations/transaction-categorization/part-1-transfers/brokerage-account-to-bank-account.md)
     * [Bank Account to Crypto Brokerage](finance-operations/transaction-categorization/part-1-transfers/bank-account-to-crypto-brokerage.md)
     * [Crypto Brokerage to Crypto Wallet](finance-operations/transaction-categorization/part-1-transfers/crypto-brokerage-to-crypto-wallet.md)
