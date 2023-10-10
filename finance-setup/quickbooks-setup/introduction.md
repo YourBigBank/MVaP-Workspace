@@ -1,5 +1,9 @@
 # Introduction
 
+{% embed url="https://scribehow.com/shared/Linking_Bank_Accounts_and_Setting_up_Chart_of_Accounts_in_Quickbooks__89uDl0zKR0-Xc2jBZlk1eQ" %}
+
+
+
 1. [Link Your Bank Accounts to Quickbooks](how-to-setup-a-bank-account-in-quickbooks.md)
 2. [Link Your Merchant Accounts to Quickbooks](link-your-merchant-accounts.md)
 3. [Link Your Credit Cards to Quickbooks ](link-your-credit-card-accounts.md)

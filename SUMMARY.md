@@ -90,4 +90,5 @@
 
 ## Test Pages
 
+* [Guide format](test-pages/guide-format.md)
 * [Figma](test-pages/figma.md)
