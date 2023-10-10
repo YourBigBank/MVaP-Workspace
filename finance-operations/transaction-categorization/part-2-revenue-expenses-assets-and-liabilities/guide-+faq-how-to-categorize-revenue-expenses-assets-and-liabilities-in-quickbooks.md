@@ -1,33 +1,33 @@
-# How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?
+# Guide +FAQ: How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?
 
 To categorize revenue, expenses, assets, and liabilities in QuickBooks effectively, including creating tag groups and tags, and performing various categorization tasks, follow these steps:
 
-1. [**Create Tag Groups**](create-tag-groups.md):
+1. [**Create Tag Groups**](coming-soon/create-tag-groups.md):
    * [ ] Log in to your QuickBooks account.
    * [ ] Navigate to the "Tags" or "Custom Tags" section.
    * [ ] Create tag groups based on your business's needs. For example, you might have tag groups for "Revenue Categories," "Expense Categories," "Asset Types," and "Liability Types.
-2. [**Create Tags**](create-tags.md):
+2. [**Create Tags**](coming-soon/create-tags.md):
    * [ ] Within each tag group, create specific tags.&#x20;
      * [ ] For "Revenue Categories," you might have tags like "Sales," "Service Revenue," or "Interest Income."&#x20;
      * [ ] For "Expense Categories," create tags such as "Rent," "Utilities," or "Advertising Expenses."
-3. [**Categorize All Revenues & Investments**](categorize-all-revenues-and-investments.md):
+3. [**Categorize All Revenues & Investments**](coming-soon/categorize-all-revenues-and-investments.md):
    * [ ] Go to the "Transactions" or "Banking" section in QuickBooks.
    * [ ] Review each transaction related to revenue and investments (e.g., sales, dividends, interest).
    * [ ] Assign the appropriate revenue tag to each transaction. For example, tag a sales deposit as "Sales."
-4. [**Categorize All Expenses & Distributions**](categorize-all-expenses-and-distributions.md):
+4. [**Categorize All Expenses & Distributions**](coming-soon/categorize-all-expenses-and-distributions.md):
    * [ ] Review transactions related to expenses and distributions (e.g., rent payments, utility bills, payroll).
    * [ ] Assign the relevant expense tag to each transaction. For example, tag a utility bill payment as "Utilities."
-5. [**Match Expenses to Bills**](match-expenses-to-bills.md):
+5. [**Match Expenses to Bills**](coming-soon/match-expenses-to-bills.md):
    * [ ] In the "Expenses" or "Bills" section, match expenses to the corresponding bills or invoices.
    * [ ] Ensure that the expense transactions are tagged correctly before matching them to bills.
-6. [**Match Payroll**](match-payroll.md):
+6. [**Match Payroll**](coming-soon/match-payroll.md):
    * [ ] If you have payroll transactions, categorize them accurately.
    * [ ] Ensure thayroll expenses, including salaries and taxes, are tagged correctly.
-7. [**Crypto Wallet to Smart Contract**](crypto-wallet-to-smart-contract.md):
+7. [**Crypto Wallet to Smart Contract**](coming-soon/crypto-wallet-to-smart-contract.md):
    * [ ] For cryptocurrency transactions involving wallet transfers to smart contracts, categorize them by:
    * [ ] Selecting the appropriate expense or asset tag for the wallet transfer.
    * [ ] Adding a note or memo specifying the purpose of the smart contract.
-8. [**Smart Contract to Crypto Account**](smart-contract-to-crypto-wallet.md):
+8. [**Smart Contract to Crypto Account**](coming-soon/smart-contract-to-crypto-wallet.md):
    * [ ] Categorize transactions involving smart contracts to crypto accounts by:
      * [ ] Selecting the relevant revenue or expense tag based on the nature of the smart contract transaction.
      * [ ] Adding a clear note or memo explaining the details of the transaction.
