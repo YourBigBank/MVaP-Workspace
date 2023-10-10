@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Demo](demo.md)
+* [Requesting Updates](requesting-updates.md)
+* [Book a Call - Get Help](book-a-call-get-help.md)
 
 ## 💵 Finance Setup
 
@@ -87,12 +89,8 @@
   * [Monitor](treasury-management-coming-soon/goal-setting-and-kpi-management/monitor.md)
 * [Budgeting and Sales Projections](treasury-management-coming-soon/budgeting-and-sales-projections.md)
 
-## 📄 Old Pages Skyler Nikky
-
-* [accounting-mva-for-business-owners](old-pages-skyler-nikky/readme.md)
-* [Onboarding process](old-pages-skyler-nikky/onboarding-process.md)
-
 ## Test Pages
 
 * [Guide format](test-pages/guide-format.md)
+* [Onboarding process](test-pages/onboarding-process.md)
 * [Figma](test-pages/figma.md)
