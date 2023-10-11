@@ -1,33 +1,36 @@
-# How to set up a chart of accounts?
+---
+description: >-
+  Note: Before you start, make sure you're logged in to your QuickBooks Online
+  account and have the necessary permissions to manage Chart of Accounts.
+---
 
-Note: Before you start, make sure you're logged in to your QuickBooks Online account and have the necessary permissions to manage Chart of Accounts.
+# Guide + FAQ: How to set up a chart of accounts?
 
-\
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-
-1. Access the Chart of Accounts:
+1. <mark style="color:blue;">Access the Chart of Accounts:</mark>
    * [ ] Log in to your QuickBooks Online account.
    * [ ] From the main dashboard, click on the "Accounting" or "Chart of Accounts" option. This is typically located on the left-hand menu under the "Accounting" or "Reports" section.
-2. Set Up Asset Accounts:
+2. [Set Up Asset Accounts:](coming-soon/assets-accounts.md)
    * [ ] Click the "New" button (usually located in the top-right corner).
    * [ ] Choose "Other Current Asset" from the Account Type drop-down menu.
    * [ ] Name the account "Stock Brokerage" and fill in any additional information as needed.
    * [ ] Save the account.
    * [ ] Set Up Sub-Accounts for Stock Brokerage:
-3. Click the "New" button again.
+3. <mark style="color:blue;">Click the "New" button again.</mark>
    * [ ] Choose "Sub-account" and select "Stock Brokerage" as the parent account.
    * [ ] Name the sub-account "Stocks" and fill in any additional information as needed.
    * [ ] Save the sub-account.
    * [ ] Repeat the above steps to create a sub-account named "Crypto Wallet" under "Stock Brokerage."
-4. Set Up Equity Accounts:
+4. [Set Up Equity Accounts:](coming-soon/equity-accounts.md)
    * [ ] Click the "New" button.
    * [ ] Choose "Equity" from the Account Type drop-down menu.
    * [ ] Name the account "Partner Contributions" and fill in any additional information as needed.
    * [ ] Save the account.
    * [ ] Repeat the above steps to create an equity account named "Partner Distributions" for money paid out to partners.
-5. Set Up Other Accounts:
+5. <mark style="color:blue;">Set Up Other Accounts:</mark>
    * [ ] For personal expenses made through the business, you can create an expense account (e.g., "Owner's Draw" or "Personal Expenses") under the "Expense" account type.
-6. For loans, set them up as liabilities by following these steps:
+6. [For loans, set them up as liabilities by following these steps:](coming-soon/liability-accounts.md)
    * [ ] Click the "New" button.
    * [ ] Choose "Long Term Liabilities" or "Other Current Liabilities" from the Account Type drop-down menu, depending on the nature of the loan.
    * [ ] Name the account (e.g., "Business Loan" or "Notes Payable") and fill in any additional information as needed.
@@ -36,10 +39,6 @@ Note: Before you start, make sure you're logged in to your QuickBooks Online acc
 For other assets, create the appropriate asset account (e.g., "Vehicle," "Equipment," "Inventory") following similar steps to those used for setting up the stock brokerage account.
 
 Remember to customize the Chart of Accounts according to your specific needs and the types of assets, liabilities, and equity accounts that apply to your business. Also, consider consulting with an accountant or financial advisor if you are unsure about the appropriate account types or naming conventions for your particular business situation.
-
-
-
-
 
 
 

@@ -1,6 +1,17 @@
-# Guide +FAQ: How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?
+---
+description: >-
+  To categorize revenue, expenses, assets, and liabilities in QuickBooks
+  effectively, including creating tag groups and tags, and performing various
+  categorization tasks, follow these steps:
+---
 
-To categorize revenue, expenses, assets, and liabilities in QuickBooks effectively, including creating tag groups and tags, and performing various categorization tasks, follow these steps:
+# Guide + FAQ: How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?
+
+
+
+<img src="../../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
+
+
 
 1. [**Create Tag Groups**](coming-soon/create-tag-groups.md):
    * [ ] Log in to your QuickBooks account.
