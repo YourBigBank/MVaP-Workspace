@@ -1,17 +1,17 @@
-# How to Setup a Bank Account in Quickbooks
+# Guide + FAQ: How to Setup a Bank Account in Quickbooks
 
 <img src="../../.gitbook/assets/Set up Bank Accts in QB" alt="" class="gitbook-drawing">
 
-1. &#x20;**Sign in to QuickBooks Online:**
+1. Sign in to **QuickBooks Online:**
    * [ ] Go to the QuickBooks Online website ([https://quickbooks.intuit.com/](https://quickbooks.intuit.com/)).
    * [ ] Sign in with your QuickBooks Online credentials.
-2. **Access Banking Center:**
+2. Access **Banking Center:**
    * [ ] Once you're logged in, click on the "Banking" or "Banking Center" option. This is typically located on the left-hand menu.
-3. **Connect Your Bank Account:**
+3. Connect **Your Bank Account:**
    * [ ] In the Banking Center, you'll see an option to connect a bank account or credit card. Click on it.
-4. **Search for Your Bank:**
+4. Search **for Your Bank:**
    * [ ] Use the search bar to look for your bank by name. QuickBooks Online has a large database of banks and financial institutions.
-5. **Enter Your Bank Credentials:**
+5. Enter **Your Bank Credentials:**
    * [ ] After selecting your bank, you'll be prompted to enter your online banking credentials (username and password). This step is necessary to establish a secure connection between QuickBooks Online and your bank.
 6. **Security Verification:**
    * [ ] Depending on your bank's security procedures, you may need to go through additional verification steps, such as answering security questions or receiving a verification code via email or text message.
