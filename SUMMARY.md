@@ -64,6 +64,7 @@
       * [Crypto Wallet to Smart Contract](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/coming-soon/crypto-wallet-to-smart-contract.md)
       * [Smart Contract to Crypto Wallet](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/coming-soon/smart-contract-to-crypto-wallet.md)
 * [Reconciliations](finance-operations/reconciliations/README.md)
+  * [Guide + FAQ](finance-operations/reconciliations/guide-+-faq.md)
   * [Coming Soon:](finance-operations/reconciliations/coming-soon/README.md)
     * [The Banking Register](finance-operations/reconciliations/coming-soon/the-banking-register.md)
     * [Opening Balance Journal Entry for Bank Accounts](finance-operations/reconciliations/coming-soon/opening-balance-journal-entry-for-bank-accounts.md)
