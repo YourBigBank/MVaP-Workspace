@@ -1,15 +1,12 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Demo](demo.md)
-* [Requesting Updates](requesting-updates.md)
+* [Start Here](README.md)
 * [Book a Call - Get Help](book-a-call-get-help.md)
 
 ## 💵 Finance Setup
 
 * [Quickbooks Setup](finance-setup/quickbooks-setup/README.md)
   * [Introduction](finance-setup/quickbooks-setup/introduction.md)
-  * [To-Do: Quickbooks Setup Guide + FAQ](finance-setup/quickbooks-setup/to-do-quickbooks-setup-guide-+-faq.md)
   * [Guide + FAQ: How to Setup a Bank Account in Quickbooks](finance-setup/quickbooks-setup/guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md)
   * [Coming Soon:](finance-setup/quickbooks-setup/coming-soon/README.md)
     * [Add Vendor Lists](finance-setup/quickbooks-setup/coming-soon/add-vendor-lists.md)
@@ -98,3 +95,5 @@
 * [Guide format](test-pages/guide-format.md)
 * [Onboarding process](test-pages/onboarding-process.md)
 * [Figma](test-pages/figma.md)
+* [Demo](test-pages/demo.md)
+* [Requesting Updates](test-pages/requesting-updates.md)
