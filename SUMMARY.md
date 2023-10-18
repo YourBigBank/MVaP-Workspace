@@ -7,7 +7,7 @@
 
 * [Quickbooks Setup](finance-setup/quickbooks-setup/README.md)
   * [Introduction](finance-setup/quickbooks-setup/introduction.md)
-  * [Guide + FAQ: How to Setup a Bank Account in Quickbooks](finance-setup/quickbooks-setup/guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md)
+  * [How to Setup a Bank Account or Credit Card in Quickbooks](finance-setup/quickbooks-setup/guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md)
   * [Coming Soon:](finance-setup/quickbooks-setup/coming-soon/README.md)
     * [Add Vendor Lists](finance-setup/quickbooks-setup/coming-soon/add-vendor-lists.md)
     * [Add Customer Lists](finance-setup/quickbooks-setup/coming-soon/add-customer-lists.md)

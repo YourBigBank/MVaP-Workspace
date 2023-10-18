@@ -1,26 +1,26 @@
-# Guide + FAQ: How to Setup a Bank Account in Quickbooks
+# How to Setup a Bank Account or Credit Card in Quickbooks
 
 <img src="../../.gitbook/assets/Set up Bank Accts in QB" alt="" class="gitbook-drawing">
 
 1. Sign in to **QuickBooks Online:**
-   * [ ] Go to the QuickBooks Online website ([https://quickbooks.intuit.com/](https://quickbooks.intuit.com/)).
-   * [ ] Sign in with your QuickBooks Online credentials.
+   * [x] Go to the [**QuickBooks Online Website**](https://quickbooks.intuit.com/).
+   * [x] Sign in with your QuickBooks Online **login & password**.
 2. Access **Banking Center:**
-   * [ ] Once you're logged in, click on the "Banking" or "Banking Center" option. This is typically located on the left-hand menu.
+   * [x] Once you're logged in, click on the "**Banking**" or "**Banking Center**" option. (_This is typically located on the left-hand menu.)_
 3. Connect **Your Bank Account:**
-   * [ ] In the Banking Center, you'll see an option to connect a bank account or credit card. Click on it.
+   * [x] In the Banking Center, you'll see an option to **connect a bank account or credit card**. Click on it.
 4. Search **for Your Bank:**
-   * [ ] Use the search bar to look for your bank by name. QuickBooks Online has a large database of banks and financial institutions.
+   * [x] Use the **search bar** to look for **your bank** by name. QuickBooks Online has a large database of banks and financial institutions for you to chose from. If you bank is not available or if you only use cash then you will need to [book a call with us](https://calendly.com/ousmane-1/accounting-help).
 5. Enter **Your Bank Credentials:**
-   * [ ] After selecting your bank, you'll be prompted to enter your online banking credentials (username and password). This step is necessary to establish a secure connection between QuickBooks Online and your bank.
+   * [x] After selecting your bank, you'll be prompted to enter **your online banking credentials (username and password)**. This step is necessary to establish a secure connection between QuickBooks Online and your bank.
 6. **Security Verification:**
-   * [ ] Depending on your bank's security procedures, you may need to go through additional verification steps, such as answering security questions or receiving a verification code via email or text message.
+   * [x] Depending on your bank's security procedures, you may need to go through additional verification steps, such as answering security questions or receiving a verification code via email or text message.
 7. **Account Selection:**
-   * [ ] QuickBooks Online will retrieve a list of your bank accounts and credit cards associated with that bank.
-   * [ ] Select the accounts you want to link to QuickBooks.
-   * [ ] Make sure to match them to the correct accounts in QuickBooks.
+   * [x] QuickBooks Online will retrieve a list of your bank accounts and credit cards associated with that bank.
+   * [x] Select **the accounts** you want to link to QuickBooks.
+   * [x] Make sure to **match them to the correct accounts in QuickBooks**.
 8. **Link Accounts:**
-   * [ ] Click on the "Link Accounts" or "Connect" button to establish the connection. QuickBooks Online will start syncing your transactions.
+   * [x] Click on the "**Link Accounts**" or "**Connect**" button to establish the connection. QuickBooks Online will start syncing your transactions.
 
 {% hint style="info" %}
 Lost motivation? Open the dropdown below
