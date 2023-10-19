@@ -25,12 +25,12 @@
   * [Introduction - Chart of Accounts](finance-setup/chart-of-accounts/introduction.md)
   * [Guide + FAQ: How to set up a chart of accounts?](finance-setup/chart-of-accounts/guide-+-faq-how-to-set-up-a-chart-of-accounts.md)
   * [Coming Soon:](finance-setup/chart-of-accounts/coming-soon/README.md)
-    * [Equity Accounts](finance-setup/chart-of-accounts/coming-soon/equity-accounts.md)
     * [Income Accounts](finance-setup/chart-of-accounts/coming-soon/income-accounts.md)
     * [Expense Accounts](finance-setup/chart-of-accounts/coming-soon/expense-accounts.md)
     * [Bank Accounts](finance-setup/chart-of-accounts/coming-soon/bank-accounts.md)
     * [Assets Accounts](finance-setup/chart-of-accounts/coming-soon/assets-accounts.md)
     * [Liability Accounts](finance-setup/chart-of-accounts/coming-soon/liability-accounts.md)
+    * [Equity Accounts](finance-setup/chart-of-accounts/coming-soon/equity-accounts.md)
 
 ## 🚶 Finance Operations
 

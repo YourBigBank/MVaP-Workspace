@@ -8,6 +8,14 @@ description: >-
 
 <img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
+Alright so this second section that involves work; not as much as the first section though haha. \
+\
+It's still an important section, because _**nothing works without this section**_. But this section won't be useful unless the first section is complete.
+
+Like before, everything builds on what you do here.\
+\
+So pay attention! It's not going to be mentally taxing this time but you will understand how this system works here.
+
 1. <mark style="color:blue;">Access the Chart of Accounts:</mark>
    * [ ] Log in to your QuickBooks Online account.
    * [ ] From the main dashboard, click on the "Accounting" or "Chart of Accounts" option. This is typically located on the left-hand menu under the "Accounting" or "Reports" section.
