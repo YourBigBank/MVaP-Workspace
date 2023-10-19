@@ -24,9 +24,9 @@ They're found in the math that your business operates on.
   * Fin Ops (Sales Forecasts, Budgets, Long Term Plans)
   * Cash Flow Managements (Treasury, Bank, and Credit Balances)
   * Management (Goals, OKRs, KPIs)
-  * Fulfillment&#x20;
+  * Fulfillment KPIs
 
-<table><thead><tr><th>Fulfillment KPIs</th><th width="235.33333333333331">Fulfillment KPIs</th><th>Fulfillment KPIs</th></tr></thead><tbody><tr><td>New Clients</td><td>New Projects (existing Clients)</td><td>Annual Contract Value</td></tr><tr><td>Customer Effort Score</td><td>Customer Retention Cost</td><td>Customer Retention Rate</td></tr><tr><td>Customer Satisfaction Score</td><td>First Contact Resolution Rate</td><td>Gross Revenue Retention</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th></th><th>Fulfillment KPIs</th><th></th></tr></thead><tbody><tr><td>New Clients</td><td>New Projects (existing Clients)</td><td>Annual Contract Value</td></tr><tr><td>Customer <br>Effort Score</td><td>Customer Retention Cost</td><td>Customer <br>Retention Rate</td></tr><tr><td>Customer <br>Satisfaction Score</td><td>First Contact Resolution Rate</td><td>Gross Revenue <br>Retention</td></tr></tbody></table>
 
 This guide will only cover how to take real-time data and use streamlined bookkeeping process to create timely and accurate financial statements.&#x20;
 
@@ -40,7 +40,9 @@ How can I collect data to calculate the remainder of these?&#x20;
 
 ## QuickBooks Setup Chapters
 
-| Completed                                                                                         | Coming Soon (Things to Add)                                                             | Coming Soon (Things to Setup)                                                                                                                             |
+<mark style="background-color:yellow;">You only need the first column to get started.</mark>
+
+| Available Now!                                                                                    | Coming Soon (Things to Add)                                                             | Coming Soon (Things to Setup)                                                                                                                             |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Link Your Bank Accounts to Quickbooks](guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md) | [Link Your Merchant Accounts to Quickbooks](coming-soon/link-your-merchant-accounts.md) | [Format Your Invoices](coming-soon/format-your-invoices.md)                                                                                               |
 | [Link Your Credit Cards to Quickbooks](guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md)  | [Add Customer Lists](coming-soon/add-customer-lists.md)                                 | [Set Up Minimal Viable Accounting Processes](coming-soon/set-up-minimal-viable-accounting-processes.md)                                                   |
