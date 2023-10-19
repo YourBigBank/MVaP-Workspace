@@ -5,7 +5,11 @@ description: >-
   categorization tasks, follow these steps:
 ---
 
-# Guide + FAQ: How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?
+# Guide + FAQ: "How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?"
+
+{% content-ref url="../../../disclaimer.md" %}
+[disclaimer.md](../../../disclaimer.md)
+{% endcontent-ref %}
 
 <img src="../../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
 
@@ -145,3 +149,12 @@ In summary, categorizing revenue, expenses, assets, and liabilities correctly in
 
 
 </details>
+
+
+
+
+
+Feel free to use the form to send us your feature ideas and information suggestions, and we'll see about adding them to our roadmap.
+
+{% embed url="https://airtable.com/appA4CWZGrJMTRIuh/shr0n8y1ZyuLngQnc" %}
+

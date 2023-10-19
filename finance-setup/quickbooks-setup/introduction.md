@@ -4,6 +4,10 @@ description: What founders should prioritize!
 
 # Introduction - QuickBooks Setup
 
+{% content-ref url="../../disclaimer.md" %}
+[disclaimer.md](../../disclaimer.md)
+{% endcontent-ref %}
+
 Yes, that's you the founder. You're the person that needs transparency the most.  \
 \
 Why? Because _**real-time data**_, _**streamlined bookkeeping**_, and _**accurate financial statements**_ will provide you insights into your business that will help you continuously steer your business in the direction of _**higher revenue**_, _**lower expenses**_, and _**improved profitability**_.

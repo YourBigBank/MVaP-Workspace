@@ -4,6 +4,10 @@ description: The most important step.
 
 # How to Setup a Bank Account or Credit Card in Quickbooks
 
+{% content-ref url="../../disclaimer.md" %}
+[disclaimer.md](../../disclaimer.md)
+{% endcontent-ref %}
+
 Alright so this is the first section that involves you doing actual WORK. Which means _**this is going to be the most important section!**_&#x20;
 
 Because everything builds on what you do here.\
@@ -292,3 +296,14 @@ To avoid these negative consequences, it's crucial to invest time and effort in 
 6. Remember that it's crucial to address any linking issues promptly to maintain accurate financial records and ensure the smooth operation of your financial management in QuickBooks Online.
 
 </details>
+
+
+
+
+
+
+
+Feel free to use the form to send us your feature ideas and information suggestions, and we'll see about adding them to our roadmap.
+
+{% embed url="https://airtable.com/appA4CWZGrJMTRIuh/shr0n8y1ZyuLngQnc" %}
+

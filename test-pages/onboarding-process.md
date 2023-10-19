@@ -1,4 +1,8 @@
-# Intro:
+# Onboarding process
+
+{% content-ref url="../disclaimer.md" %}
+[disclaimer.md](../disclaimer.md)
+{% endcontent-ref %}
 
 Have you had an accountant in the past?
 

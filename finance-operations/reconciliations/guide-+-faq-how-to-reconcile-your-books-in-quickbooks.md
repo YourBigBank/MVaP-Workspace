@@ -1,52 +1,55 @@
-# Guide + FAQ
+# Guide + FAQ: "How to Reconcile your Books in Quickbooks?"
+
+{% content-ref url="../../disclaimer.md" %}
+[disclaimer.md](../../disclaimer.md)
+{% endcontent-ref %}
 
 <img src="../../.gitbook/assets/file.excalidraw (3).svg" alt="" class="gitbook-drawing">
 
 Reconciling bank and credit card accounts in QuickBooks is a critical process to ensure that your financial records match your actual bank and credit card statements. Here are the steps to reconcile these accounts:
 
 1. Go to The Banking Register:
-   1. Log in to your QuickBooks account
-   2. Navigate to the "Banking" or "Transactions" tab.
+   * [ ] Log in to your QuickBooks account
+   * [ ] Navigate to the "Banking" or "Transactions" tab.
 2. Find the Account you want to reconcile:
-   1. Locate the bank or credit card account that you want to reconcile in the list of accounts.
+   * [ ] Locate the bank or credit card account that you want to reconcile in the list of accounts.
 3. Go to the beginning date of your reconciliation period:
-   1. Click on the account, and in the account register, go to the beginning date of the reconciliation period. This should be the date on the earliest statement you have available.
+   * [ ] Click on the account, and in the account register, go to the beginning date of the reconciliation period. This should be the date on the earliest statement you have available.
 4. Check the Balance on that date: Does it match?
-   1. Verify that the balance on that date in QuickBooks matches the balance on your bank or credit card statement.&#x20;
-   2. If they match, you can proceed with reconciliation.
-   3. If they don't match, you may need to investigate the discrepancy.
+   * [ ] Verify that the balance on that date in QuickBooks matches the balance on your bank or credit card statement.&#x20;
+   * [ ] If they match, you can proceed with reconciliation.
+   * [ ] If they don't match, you may need to investigate the discrepancy.
 5. If YES, start reconciling, if NO, add a journal entry:
-   1. Opening Balance Journal Entry for BANK ACCOUNTS:\
-      **Debit** (The Bank Account you Want to Reconcile).\
-      **Credit** Opening Balance Equity.
-   2. Opening Balance Journal Entry FOR CREDIT CARDS AND LOANS:\
-      **Debit** (The Bank Account you Want to Reconcile).\
-      **Credit** Opening Balance Equity.
+   * [ ] Opening Balance Journal Entry for BANK ACCOUNTS:\
+     **Debit** (The Bank Account you Want to Reconcile).\
+     **Credit** Opening Balance Equity.
+   * [ ] Opening Balance Journal Entry FOR CREDIT CARDS AND LOANS:\
+     **Debit** (The Bank Account you Want to Reconcile).\
+     **Credit** Opening Balance Equity.
 6. Open up the bank statement for the month you are starting reconciliation for:
-   1. Retrieve the bank or credit card statement for the month you're reconciling in QuickBooks.
+   * [ ] Retrieve the bank or credit card statement for the month you're reconciling in QuickBooks.
 7. Input the ending bank balance and statement end date from the statement in QuickBooks reconciliation tab:
-   1. In QuickBooks, navigate to the reconciliation tab for the chosen account.
-   2. Enter the ending balance and statement end date from your bank or credit card statement.
+   * [ ] In QuickBooks, navigate to the reconciliation tab for the chosen account.
+   * [ ] Enter the ending balance and statement end date from your bank or credit card statement.
 8. If it says $0 on the top right in green, then it is okay to finish and save and move on to the next month:
-   1. If the reconciliation balance in QuickBooks matches the ending balance on your statement, you can complete the reconciliation for that month.
+   * [ ] If the reconciliation balance in QuickBooks matches the ending balance on your statement, you can complete the reconciliation for that month.
 9. If there is a difference in amount from the statement and what is in QuickBooks:
-   1. Uncheck all transactions and go through each line item one by one in both the statement and QuickBooks and check off what is available in both:
-10.
-    1. Uncheck all transactions in the reconciliation window and start checking off each transaction that matches between your statement and QuickBooks.
-11. If there are discrepancies in what's on the statement vs. what's in QuickBooks, add the missing item onto an Excel sheet in three columns: Name, Description, Amount:
-    1. For any transactions that don't match, create a list in Excel with columns for the name, description, and amount of each missing item.
-12. At the end of the month, upload that file to QuickBooks and categorize those items, then reconcile the account until it reaches $0 difference:
-    1. Upload the Excel file with missing transactions to QuickBooks.
-    2. Categorize each missing transaction in QuickBooks.
-    3. Continue reconciling the account until the balance matches the statement.
-13. Continue for all the months needed:
+   * [ ] Uncheck all transactions and go through each line item one by one in both the statement and QuickBooks and check off what is available in both:
+   * [ ] Uncheck all transactions in the reconciliation window and start checking off each transaction that matches between your statement and QuickBooks.
+10. If there are discrepancies in what's on the statement vs. what's in QuickBooks, add the missing item onto an Excel sheet in three columns: Name, Description, Amount:
+    * [ ] For any transactions that don't match, create a list in Excel with columns for the name, description, and amount of each missing item.
+11. At the end of the month, upload that file to QuickBooks and categorize those items, then reconcile the account until it reaches $0 difference:
+    * [ ] Upload the Excel file with missing transactions to QuickBooks.
+    * [ ] Categorize each missing transaction in QuickBooks.
+    * [ ] Continue reconciling the account until the balance matches the statement.
+12. Continue for all the months needed.
 
 Repeat the reconciliation process for each subsequent month, following the same steps.
 
-By following these steps, you can ensure that your bank and credit card accounts in QuickBooks are accurately reconciled with your actual financial statements, maintaining the integrity of your financial records.
+By following these steps, you can ensure that your bank and credit card accounts in QuickBooks are accurately reconciled with your actual financial statements, maintaining the integrity of your financial records.\
 
-\
 
+***
 
 
 
@@ -183,7 +186,7 @@ Ultimately, the frequency of reconciliation should align with your business's tr
 
 
 
+Feel free to use the form to send us your feature ideas and information suggestions, and we'll see about adding them to our roadmap.
 
-
-
+{% embed url="https://airtable.com/appA4CWZGrJMTRIuh/shr0n8y1ZyuLngQnc" %}
 

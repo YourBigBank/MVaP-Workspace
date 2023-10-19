@@ -1,2 +1,5 @@
-# Paying Bills
+# Paying Bills (Coming Soon)
 
+{% content-ref url="../disclaimer.md" %}
+[disclaimer.md](../disclaimer.md)
+{% endcontent-ref %}

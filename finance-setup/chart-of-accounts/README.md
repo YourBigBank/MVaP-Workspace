@@ -4,6 +4,10 @@ description: The second step. This will set you up for success.
 
 # Chart of Accounts
 
+{% content-ref url="../../disclaimer.md" %}
+[disclaimer.md](../../disclaimer.md)
+{% endcontent-ref %}
+
 Why do you need to set up a chart of accounts?&#x20;
 
 Consider this

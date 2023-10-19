@@ -6,6 +6,10 @@ description: >-
 
 # Start Here
 
+{% content-ref url="disclaimer.md" %}
+[disclaimer.md](disclaimer.md)
+{% endcontent-ref %}
+
 ## How to use the guide:
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Start on the <a href="finance-setup/quickbooks-setup/">Quickbooks setup</a> section and follow the steps.</td></tr><tr><td>THESE DOCS ARE IN PROGRESS - check <a href="https://github.com/YourBigBank/Minimum-Viable-Accounting-Protocol">Github</a> for new changes.</td></tr><tr><td>If you need help, head to "<a href="book-a-call-get-help.md">Book a call</a>" to speak with the author.</td></tr></tbody></table>

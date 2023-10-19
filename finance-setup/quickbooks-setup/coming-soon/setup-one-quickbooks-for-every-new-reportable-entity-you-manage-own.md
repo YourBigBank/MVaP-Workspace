@@ -1,5 +1,9 @@
 # Setup One Quickbooks for Every New Reportable Entity You Manage/Own
 
+{% content-ref url="../../../disclaimer.md" %}
+[disclaimer.md](../../../disclaimer.md)
+{% endcontent-ref %}
+
 Setting up a separate QuickBooks Online account for each new business entity you own is generally recommended for several reasons:
 
 1. Legal and Financial Separation: Business entities, such as LLCs, corporations, and partnerships, are distinct legal entities with separate financial obligations and liabilities. Maintaining separate QuickBooks accounts helps ensure that each entity's financial records are kept separate and accurately reflect its financial activities. This separation is essential for legal compliance and financial clarity.

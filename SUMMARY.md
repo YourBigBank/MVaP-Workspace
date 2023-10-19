@@ -2,6 +2,7 @@
 
 * [Start Here](README.md)
 * [Book a Call - Get Help](book-a-call-get-help.md)
+* [Disclaimer:](disclaimer.md)
 
 ## 💵 Finance Setup
 
@@ -50,7 +51,7 @@
       * [Credit Card to Bank Account](finance-operations/transaction-categorization/part-1-transfers/coming-soon/credit-card-to-bank-account.md)
   * [Part 2: Revenue, Expenses, Assets, and Liabilities](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/README.md)
     * [Introduction](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/introduction.md)
-    * [Guide + FAQ: How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/guide-+-faq-how-to-categorize-revenue-expenses-assets-and-liabilities-in-quickbooks.md)
+    * [Guide + FAQ: "How to categorize Revenue, Expenses, Assets, and Liabilities in Quickbooks?"](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/guide-+-faq-how-to-categorize-revenue-expenses-assets-and-liabilities-in-quickbooks.md)
     * [Coming Soon:](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/coming-soon/README.md)
       * [Create Tag Groups](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/coming-soon/create-tag-groups.md)
       * [Create Tags](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/coming-soon/create-tags.md)
@@ -61,7 +62,7 @@
       * [Crypto Wallet to Smart Contract](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/coming-soon/crypto-wallet-to-smart-contract.md)
       * [Smart Contract to Crypto Wallet](finance-operations/transaction-categorization/part-2-revenue-expenses-assets-and-liabilities/coming-soon/smart-contract-to-crypto-wallet.md)
 * [Reconciliations](finance-operations/reconciliations/README.md)
-  * [Guide + FAQ](finance-operations/reconciliations/guide-+-faq.md)
+  * [Guide + FAQ: "How to Reconcile your Books in Quickbooks?"](finance-operations/reconciliations/guide-+-faq-how-to-reconcile-your-books-in-quickbooks.md)
   * [Coming Soon:](finance-operations/reconciliations/coming-soon/README.md)
     * [The Banking Register](finance-operations/reconciliations/coming-soon/the-banking-register.md)
     * [Opening Balance Journal Entry for Bank Accounts](finance-operations/reconciliations/coming-soon/opening-balance-journal-entry-for-bank-accounts.md)

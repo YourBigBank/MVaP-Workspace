@@ -1,5 +1,9 @@
 # Tax Estimates
 
+{% content-ref url="../../disclaimer.md" %}
+[disclaimer.md](../../disclaimer.md)
+{% endcontent-ref %}
+
 <img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## How to estimate Taxes in QuickBooks

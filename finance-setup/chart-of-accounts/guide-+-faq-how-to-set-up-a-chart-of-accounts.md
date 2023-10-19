@@ -6,6 +6,10 @@ description: >-
 
 # Guide + FAQ: How to set up a chart of accounts?
 
+{% content-ref url="../../disclaimer.md" %}
+[disclaimer.md](../../disclaimer.md)
+{% endcontent-ref %}
+
 <img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 Alright so this second section that involves work; not as much as the first section though haha. \
@@ -17,32 +21,32 @@ Like before, everything builds on what you do here.\
 So pay attention! It's not going to be mentally taxing this time but you will understand how this system works here.
 
 1. <mark style="color:blue;">Access the Chart of Accounts:</mark>
-   * [ ] Log in to your QuickBooks Online account.
-   * [ ] From the main dashboard, click on the "Accounting" or "Chart of Accounts" option. This is typically located on the left-hand menu under the "Accounting" or "Reports" section.
+   * [x] Log in to your QuickBooks Online account.
+   * [x] From the main dashboard, click on the "Accounting" or "Chart of Accounts" option. This is typically located on the left-hand menu under the "Accounting" or "Reports" section.
 2. [Set Up Asset Accounts:](coming-soon/assets-accounts.md)
-   * [ ] Click the "New" button (usually located in the top-right corner).
-   * [ ] Choose "Other Current Asset" from the Account Type drop-down menu.
-   * [ ] Name the account "Stock Brokerage" and fill in any additional information as needed.
-   * [ ] Save the account.
-   * [ ] Set Up Sub-Accounts for Stock Brokerage:
+   * [x] Click the "New" button (usually located in the top-right corner).
+   * [x] Choose "Other Current Asset" from the Account Type drop-down menu.
+   * [x] Name the account "Stock Brokerage" and fill in any additional information as needed.
+   * [x] Save the account.
+   * [x] Set Up Sub-Accounts for Stock Brokerage:
 3. <mark style="color:blue;">Click the "New" button again.</mark>
-   * [ ] Choose "Sub-account" and select "Stock Brokerage" as the parent account.
-   * [ ] Name the sub-account "Stocks" and fill in any additional information as needed.
-   * [ ] Save the sub-account.
-   * [ ] Repeat the above steps to create a sub-account named "Crypto Wallet" under "Stock Brokerage."
+   * [x] Choose "Sub-account" and select "Stock Brokerage" as the parent account.
+   * [x] Name the sub-account "Stocks" and fill in any additional information as needed.
+   * [x] Save the sub-account.
+   * [x] Repeat the above steps to create a sub-account named "Crypto Wallet" under "Stock Brokerage."
 4. [Set Up Equity Accounts:](coming-soon/equity-accounts.md)
-   * [ ] Click the "New" button.
-   * [ ] Choose "Equity" from the Account Type drop-down menu.
-   * [ ] Name the account "Partner Contributions" and fill in any additional information as needed.
-   * [ ] Save the account.
-   * [ ] Repeat the above steps to create an equity account named "Partner Distributions" for money paid out to partners.
+   * [x] Click the "New" button.
+   * [x] Choose "Equity" from the Account Type drop-down menu.
+   * [x] Name the account "Partner Contributions" and fill in any additional information as needed.
+   * [x] Save the account.
+   * [x] Repeat the above steps to create an equity account named "Partner Distributions" for money paid out to partners.
 5. <mark style="color:blue;">Set Up Other Accounts:</mark>
-   * [ ] For personal expenses made through the business, you can create an expense account (e.g., "Owner's Draw" or "Personal Expenses") under the "Expense" account type.
+   * [x] For personal expenses made through the business, you can create an expense account (e.g., "Owner's Draw" or "Personal Expenses") under the "Expense" account type.
 6. [For loans, set them up as liabilities by following these steps:](coming-soon/liability-accounts.md)
-   * [ ] Click the "New" button.
-   * [ ] Choose "Long Term Liabilities" or "Other Current Liabilities" from the Account Type drop-down menu, depending on the nature of the loan.
-   * [ ] Name the account (e.g., "Business Loan" or "Notes Payable") and fill in any additional information as needed.
-   * [ ] Save the account.
+   * [x] Click the "New" button.
+   * [x] Choose "Long Term Liabilities" or "Other Current Liabilities" from the Account Type drop-down menu, depending on the nature of the loan.
+   * [x] Name the account (e.g., "Business Loan" or "Notes Payable") and fill in any additional information as needed.
+   * [x] Save the account.
 
 For other assets, create the appropriate asset account (e.g., "Vehicle," "Equipment," "Inventory") following similar steps to those used for setting up the stock brokerage account.
 
@@ -215,3 +219,14 @@ Typically, you should consider adding new accounts whenever there are significan
 Additionally, if you encounter recurring transactions that don't fit well into existing accounts, it's advisable to create new accounts to accurately capture those transactions. While there's no fixed schedule for adding accounts, a proactive approach involves regular reviews, especially during financial planning and reporting processes, to ensure your Chart of Accounts remains relevant and reflective of your evolving business activities.
 
 </details>
+
+
+
+
+
+
+
+Feel free to use the form to send us your feature ideas and information suggestions, and we'll see about adding them to our roadmap.
+
+{% embed url="https://airtable.com/appA4CWZGrJMTRIuh/shr0n8y1ZyuLngQnc" fullWidth="false" %}
+
