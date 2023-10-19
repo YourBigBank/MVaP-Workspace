@@ -1,4 +1,16 @@
+---
+description: The most important step.
+---
+
 # How to Setup a Bank Account or Credit Card in Quickbooks
+
+Alright so this is the first section that involves you doing actual WORK. Which means _**this is going to be the most important section!**_&#x20;
+
+Because everything builds on what you do here.\
+\
+So make sure you stay awake during this section. It's going to be the most mentally taxing but once you get it done you'll breathe a sigh of relief.&#x20;
+
+I promise!
 
 <img src="../../.gitbook/assets/Set up Bank Accts in QB" alt="" class="gitbook-drawing">
 
@@ -28,7 +40,7 @@ Lost motivation? Open the dropdown below
 
 <details>
 
-<summary>12 reasons to set up your bank account on Quickbooks</summary>
+<summary>12 reasons to set up your bank account on QuickBooks</summary>
 
 ### Positive Downstream Effects
 
@@ -150,7 +162,7 @@ Think you messed up? Open the dropdown below
 
 <details>
 
-<summary>How to Know You Linked Your Bank Accounts Unsuccessfully</summary>
+<summary>How to Know You Linked Your Bank Accounts Incorrectly</summary>
 
 If you suspect that you have not successfully linked your bank accounts to QuickBooks Online, there are several signs and issues to look for. An unsuccessful link can lead to discrepancies in your financial records and hinder your ability to manage your finances effectively. Here are some indicators that your bank accounts may not be linked successfully:
 

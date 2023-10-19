@@ -1,16 +1,14 @@
-# Introduction
+---
+description: What founders should prioritize!
+---
 
-Transparency has become a hot topic in the business community lately. Everyone wants to know what's going on in your organization.
+# Introduction - QuickBooks Setup
 
-Investors want to know that you're taking care of them in the right way.
-
-Customers want to know you're not taking advantage of them in the wrong way.
-
-But isn't there someone else in the room we should be considering?\
+Yes, that's you the founder. You're the person that needs transparency the most.  \
 \
-Yes, that's you the founder.
+Why? Because _**real-time data**_, _**streamlined bookkeeping**_, and _**accurate financial statements**_ will provide you insights into your business that will help you continuously steer your business in the direction of _**higher revenue**_, _**lower expenses**_, and _**improved profitability**_.
 
-## Why don't founders care about transparency?
+## Why should founders care about transparency?
 
 Transparency shouldn't only be reserved for your external stakeholders. It's most valuable for you and members within your organization.
 
@@ -18,28 +16,38 @@ The goal of internal transparency is to find non-obvious insights about the busi
 
 _But where can you find those insights?_
 
-The answer is found at the most atomic level - they're found in the math that your business operates on.
+They're found in the math that your business operates on.
 
-* Finances (Cashflows i.e. Revenue & Expenses)
-* Operations (Marketing, Retention, Growth KPIs)
+* Financial Statements (Profit and Loss, Balance Sheet, Statement of Cashflows)
+* Operational Data&#x20;
+  * Rev Ops (Marketing + Sales Cashflows i.e. Revenue & Expenses)
+  * Fin Ops (Sales Forecasts, Budgets, Long Term Plans)
+  * Cash Flow Managements (Treasury, Bank, and Credit Balances)
+  * Management (Goals, OKRs, KPIs)
+  * Fulfillment&#x20;
+
+<table><thead><tr><th>Fulfillment KPIs</th><th width="235.33333333333331">Fulfillment KPIs</th><th>Fulfillment KPIs</th></tr></thead><tbody><tr><td>New Clients</td><td>New Projects (existing Clients)</td><td>Annual Contract Value</td></tr><tr><td>Customer Effort Score</td><td>Customer Retention Cost</td><td>Customer Retention Rate</td></tr><tr><td>Customer Satisfaction Score</td><td>First Contact Resolution Rate</td><td>Gross Revenue Retention</td></tr></tbody></table>
+
+This guide will only cover how to take real-time data and use streamlined bookkeeping process to create timely and accurate financial statements.&#x20;
+
+**The Moral:** _Financial Awareness leads to Financial Opportunity._
+
+But once you have got that out of the way come back to this page and ask yourself.
+
+How can I collect data to calculate the remainder of these?&#x20;
 
 ***
 
-<mark style="color:red;">This guide will give step-by-step instructions that shows business owners, CFOs, DAO representatives, or any member of a crypto organization how to derive deep actionable insights from their business using the power of strategic accounting.</mark>
+## QuickBooks Setup Chapters
 
-1. [Link Your Bank Accounts to Quickbooks](guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md)
+| Completed                                                                                         | Coming Soon (Things to Add)                                                             | Coming Soon (Things to Setup)                                                                                                                             |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Link Your Bank Accounts to Quickbooks](guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md) | [Link Your Merchant Accounts to Quickbooks](coming-soon/link-your-merchant-accounts.md) | [Format Your Invoices](coming-soon/format-your-invoices.md)                                                                                               |
+| [Link Your Credit Cards to Quickbooks](guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md)  | [Add Customer Lists](coming-soon/add-customer-lists.md)                                 | [Set Up Minimal Viable Accounting Processes](coming-soon/set-up-minimal-viable-accounting-processes.md)                                                   |
+|                                                                                                   | [Add Vendor Lists](coming-soon/add-vendor-lists.md)                                     | [Set Up Quickbooks Invoices](coming-soon/set-up-quickbooks-invoices.md)                                                                                   |
+|                                                                                                   | [Set Up Payroll](coming-soon/set-up-payroll.md)                                         | [Set Up Products and Services In Quickbooks](coming-soon/set-up-products-and-services-in-quickbooks.md)                                                   |
+|                                                                                                   | [Add Employees](coming-soon/add-employees.md)                                           | [Setup One Quickbooks for Every New Reportable Entity You Manage/Own](coming-soon/setup-one-quickbooks-for-every-new-reportable-entity-you-manage-own.md) |
+|                                                                                                   | [Add Contractors](coming-soon/add-contractors.md)                                       | [Set Up Minimal Viable Accounting Processes](coming-soon/set-up-minimal-viable-accounting-processes.md)                                                   |
 
-**Coming Soon:**
 
-1. [Link Your Merchant Accounts to Quickbooks](coming-soon/link-your-merchant-accounts.md)
-2. [Link Your Credit Cards to Quickbooks](coming-soon/link-your-credit-card-accounts.md)
-3. [Add Customer Lists](coming-soon/add-customer-lists.md)
-4. [Add Vendor Lists](coming-soon/add-vendor-lists.md)
-5. [Format Your Invoices](coming-soon/format-your-invoices.md)
-6. [Set Up Payroll](coming-soon/set-up-payroll.md)
-7. [Add Employees](coming-soon/add-employees.md)
-8. [Add Contractors](coming-soon/add-contractors.md)
-9. [Set Up Quickbooks Invoices](coming-soon/set-up-quickbooks-invoices.md)
-10. [Set Up Products and Services In Quickbooks](coming-soon/set-up-products-and-services-in-quickbooks.md)
-11. [Set Up Minimal Viable Accounting Processes](coming-soon/set-up-minimal-viable-accounting-processes.md)
-12. [Setup One Quickbooks for Every New Reportable Entity You Manage/Own](coming-soon/setup-one-quickbooks-for-every-new-reportable-entity-you-manage-own.md)
+

@@ -6,7 +6,7 @@
 ## 💵 Finance Setup
 
 * [Quickbooks Setup](finance-setup/quickbooks-setup/README.md)
-  * [Introduction](finance-setup/quickbooks-setup/introduction.md)
+  * [Introduction - QuickBooks Setup](finance-setup/quickbooks-setup/introduction.md)
   * [How to Setup a Bank Account or Credit Card in Quickbooks](finance-setup/quickbooks-setup/guide-+-faq-how-to-setup-a-bank-account-in-quickbooks.md)
   * [Coming Soon:](finance-setup/quickbooks-setup/coming-soon/README.md)
     * [Add Vendor Lists](finance-setup/quickbooks-setup/coming-soon/add-vendor-lists.md)
@@ -22,7 +22,7 @@
     * [Set Up Minimal Viable Accounting Processes](finance-setup/quickbooks-setup/coming-soon/set-up-minimal-viable-accounting-processes.md)
     * [Setup One Quickbooks for Every New Reportable Entity You Manage/Own](finance-setup/quickbooks-setup/coming-soon/setup-one-quickbooks-for-every-new-reportable-entity-you-manage-own.md)
 * [Chart of Accounts](finance-setup/chart-of-accounts/README.md)
-  * [Introduction](finance-setup/chart-of-accounts/introduction.md)
+  * [Introduction - Chart of Accounts](finance-setup/chart-of-accounts/introduction.md)
   * [Guide + FAQ: How to set up a chart of accounts?](finance-setup/chart-of-accounts/guide-+-faq-how-to-set-up-a-chart-of-accounts.md)
   * [Coming Soon:](finance-setup/chart-of-accounts/coming-soon/README.md)
     * [Equity Accounts](finance-setup/chart-of-accounts/coming-soon/equity-accounts.md)
