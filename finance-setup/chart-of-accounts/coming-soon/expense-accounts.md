@@ -4,9 +4,24 @@
 [disclaimer.md](../../../disclaimer.md)
 {% endcontent-ref %}
 
-<table data-full-width="true"><thead><tr><th width="218">Cost of Service - COS</th><th width="246">Cost of Goods Sold - COGS</th><th width="201">Operational Expenses</th><th width="95">Others</th><th>Additional Filings Required</th></tr></thead><tbody><tr><td><a data-mention href="expense-accounts.md#cost-of-labor-cos">#cost-of-labor-cos</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a data-mention href="expense-accounts.md#insurance">#insurance</a></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+1. [#cost-of-goods-and-services](expense-accounts.md#cost-of-goods-and-services "mention")
+2. Operational Expenses
+   1. Fully Deductible Ops Expenses
+   2. Partially Deductible Ops Expenses
+   3. Non-Deductible Ops Expenses
+3. Non Operating Expenses
 
+<mark style="color:red;">**Add examples in each category**</mark>
 
+1. <mark style="color:red;">**Example of the type of expense**</mark>
+2. <mark style="color:red;">**Example of the type of business that can deduct the expense.**</mark>
+3. <mark style="color:red;">**IRS Publication that references each expense in each category.**</mark>
+
+## Cost of Goods and Services
+
+Description
+
+<table data-full-width="true"><thead><tr><th>Cost of Service - COS</th><th>Cost of Goods Sold - COGS</th></tr></thead><tbody><tr><td><a data-mention href="expense-accounts.md#cost-of-labor-cos">#cost-of-labor-cos</a></td><td><a data-mention href="expense-accounts.md#supplies-and-materials-cogs">#supplies-and-materials-cogs</a></td></tr><tr><td><a data-mention href="expense-accounts.md#equipment-rental-cos">#equipment-rental-cos</a></td><td><a data-mention href="expense-accounts.md#shipping-freight-and-delivery-cos">#shipping-freight-and-delivery-cos</a></td></tr><tr><td><a data-mention href="expense-accounts.md#other-costs-of-services-cos">#other-costs-of-services-cos</a></td><td></td></tr></tbody></table>
 
 <details>
 
@@ -42,11 +57,27 @@ Expenses for transporting goods or services to customers, which may include ship
 
 <details>
 
-<summary>Supplies &#x26; Materials - COGS </summary>
+<summary>Supplies &#x26; Materials - COGS</summary>
 
 Costs of acquiring materials and supplies used in the production of goods, typically categorized under the Cost of Goods Sold (COGS).
 
+Examples:
+
+1.
+
 </details>
+
+## Operational Expenses
+
+### Fully Deductible Operating Expenses
+
+Click on the expense and it will take you to a dropdown menu that includes
+
+1. Definition of the Expense Category
+2. Example of the type of Expense
+3. Example of the type of business that can deduct the expense
+
+<table><thead><tr><th>Category</th><th>More Catergories</th><th data-hidden>#</th><th data-hidden>Number</th><th data-hidden data-type="number">#</th></tr></thead><tbody><tr><td><a data-mention href="expense-accounts.md#a-dvertising-promotional">#a-dvertising-promotional</a></td><td><a data-mention href="expense-accounts.md#utilities">#utilities</a></td><td>1</td><td></td><td>1</td></tr><tr><td><a data-mention href="expense-accounts.md#auto">#auto</a></td><td><a data-mention href="expense-accounts.md#gas-and-fuel">#gas-and-fuel</a></td><td>2</td><td></td><td>2</td></tr><tr><td><a data-mention href="expense-accounts.md#bad-debts">#bad-debts</a></td><td><a data-mention href="expense-accounts.md#other-miscellaneous-expenditure">#other-miscellaneous-expenditure</a></td><td>3</td><td></td><td>3</td></tr><tr><td><a data-mention href="expense-accounts.md#bank-charges">#bank-charges</a></td><td><a data-mention href="expense-accounts.md#other-vehicle-expenses">#other-vehicle-expenses</a></td><td>4</td><td></td><td>4</td></tr><tr><td><a data-mention href="expense-accounts.md#charitable-contributions">#charitable-contributions</a></td><td><a data-mention href="expense-accounts.md#parking-and-tolls">#parking-and-tolls</a></td><td>5</td><td></td><td>5</td></tr><tr><td><a data-mention href="expense-accounts.md#communication">#communication</a></td><td><a data-mention href="expense-accounts.md#penalties-and-settlements">#penalties-and-settlements</a></td><td>6</td><td></td><td>6</td></tr><tr><td><a data-mention href="expense-accounts.md#cost-of-labor">#cost-of-labor</a></td><td><a data-mention href="expense-accounts.md#vehicle">#vehicle</a></td><td>7</td><td></td><td>7</td></tr><tr><td><a data-mention href="expense-accounts.md#dues-and-subscriptions">#dues-and-subscriptions</a></td><td><a data-mention href="expense-accounts.md#vehicle-insurance">#vehicle-insurance</a></td><td>8</td><td></td><td>8</td></tr><tr><td><a data-mention href="expense-accounts.md#finance-costs">#finance-costs</a></td><td><a data-mention href="expense-accounts.md#vehicle-lease">#vehicle-lease</a></td><td>9</td><td></td><td>9</td></tr><tr><td><a data-mention href="expense-accounts.md#insurance">#insurance</a></td><td><a data-mention href="expense-accounts.md#vehicle-registration">#vehicle-registration</a></td><td>10</td><td></td><td>10</td></tr><tr><td><a data-mention href="expense-accounts.md#interest-paid">#interest-paid</a></td><td><a data-mention href="expense-accounts.md#vehicle-repairs">#vehicle-repairs</a></td><td>11</td><td></td><td>11</td></tr><tr><td><a data-mention href="expense-accounts.md#legal-and-professional-fees">#legal-and-professional-fees</a></td><td><a data-mention href="expense-accounts.md#vehicle-loan-interest">#vehicle-loan-interest</a></td><td>12</td><td></td><td>12</td></tr><tr><td><a data-mention href="expense-accounts.md#office-general-administrative-expenditures">#office-general-administrative-expenditures</a></td><td><a data-mention href="expense-accounts.md#other-vehicle-expenses">#other-vehicle-expenses</a></td><td>13</td><td></td><td>13</td></tr><tr><td><a data-mention href="expense-accounts.md#other-business-expenses">#other-business-expenses</a></td><td></td><td>14</td><td></td><td>14</td></tr><tr><td><a data-mention href="expense-accounts.md#other-miscellaneous-service-costs">#other-miscellaneous-service-costs</a></td><td></td><td>15</td><td></td><td>15</td></tr><tr><td><a data-mention href="expense-accounts.md#payroll-expenditures">#payroll-expenditures</a></td><td></td><td>16</td><td></td><td>16</td></tr><tr><td><a data-mention href="expense-accounts.md#payroll-tax-expenses">#payroll-tax-expenses</a></td><td></td><td>17</td><td></td><td>17</td></tr><tr><td><a data-mention href="expense-accounts.md#promotional-meals">#promotional-meals</a></td><td></td><td>18</td><td></td><td>18</td></tr><tr><td><a data-mention href="expense-accounts.md#rent-or-lease-of-buildings">#rent-or-lease-of-buildings</a></td><td></td><td>19</td><td></td><td>19</td></tr><tr><td><a data-mention href="expense-accounts.md#repair-and-maintenance">#repair-and-maintenance</a></td><td></td><td>20</td><td></td><td>20</td></tr><tr><td><a data-mention href="expense-accounts.md#shipping-freight-and-delivery">#shipping-freight-and-delivery</a></td><td></td><td>21</td><td></td><td>21</td></tr><tr><td><a data-mention href="expense-accounts.md#supplies-and-materials">#supplies-and-materials</a></td><td></td><td>22</td><td></td><td>22</td></tr><tr><td><a data-mention href="expense-accounts.md#taxes-paid">#taxes-paid</a></td><td></td><td>23</td><td></td><td>23</td></tr><tr><td><a data-mention href="expense-accounts.md#travel">#travel</a></td><td></td><td>24</td><td></td><td>24</td></tr></tbody></table>
 
 <details>
 
@@ -111,6 +142,10 @@ Expenses related to labor costs, including wages, salaries, and benefits paid to
 Membership dues and subscription fees for professional organizations, publications, or services.
 
 </details>
+
+### Partially Deductible Ops Expenses
+
+<table><thead><tr><th></th><th width="161"></th><th></th></tr></thead><tbody><tr><td><a data-mention href="expense-accounts.md#charitable-contributions">#charitable-contributions</a></td><td><a data-mention href="expense-accounts.md#promotional-meals">#promotional-meals</a></td><td><a data-mention href="expense-accounts.md#utilities-home-office">#utilities-home-office</a></td></tr><tr><td><a data-mention href="expense-accounts.md#entertainment">#entertainment</a></td><td><a data-mention href="expense-accounts.md#home-office">#home-office</a></td><td><a data-mention href="expense-accounts.md#property-tax-home-office">#property-tax-home-office</a></td></tr><tr><td><a data-mention href="expense-accounts.md#entertainment-meals">#entertainment-meals</a></td><td><a data-mention href="expense-accounts.md#other-home-office-expenses">#other-home-office-expenses</a></td><td><a data-mention href="expense-accounts.md#travel-meals">#travel-meals</a></td></tr><tr><td><a data-mention href="expense-accounts.md#mortgage-interest-home-office">#mortgage-interest-home-office</a></td><td></td><td></td></tr><tr><td><a data-mention href="expense-accounts.md#amortization">#amortization</a></td><td><a data-mention href="expense-accounts.md#depreciation">#depreciation</a></td><td><a data-mention href="expense-accounts.md#exchange-gain-or-loss">#exchange-gain-or-loss</a></td></tr></tbody></table>
 
 <details>
 
@@ -442,14 +477,6 @@ Costs associated with leasing vehicles for business purposes.
 
 <details>
 
-<summary>Vehicle Loan </summary>
-
-Expenses related to vehicle loans used for business vehicles.
-
-</details>
-
-<details>
-
 <summary>Vehicle Loan Interest </summary>
 
 Interest payments on loans for business vehicles.
@@ -479,6 +506,14 @@ Expenses for repairing and maintaining business vehicles.
 Costs for vehicle washing and road-related services.
 
 </details>
+
+### Non-Deductible Expenses
+
+|                                                                                                                   |   |   |
+| ----------------------------------------------------------------------------------------------------------------- | - | - |
+| [#unapplied-cash-bill-payment-expenditure](expense-accounts.md#unapplied-cash-bill-payment-expenditure "mention") |   |   |
+|                                                                                                                   |   |   |
+|                                                                                                                   |   |   |
 
 {% embed url="https://airtable.com/appNTFkTpEMDfCcTI/shrgv8sJo2Kr2Ldzc" fullWidth="true" %}
 
