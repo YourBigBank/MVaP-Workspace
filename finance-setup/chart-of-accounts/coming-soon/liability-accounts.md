@@ -1,10 +1,10 @@
-# Liability Accounts
+# Credit Cards & Liability Accounts
 
 {% content-ref url="../../../disclaimer.md" %}
 [disclaimer.md](../../../disclaimer.md)
 {% endcontent-ref %}
 
-{% embed url="https://airtable.com/appNTFkTpEMDfCcTI/shrgv8sJo2Kr2Ldzc" %}
+{% embed url="https://airtable.com/appNTFkTpEMDfCcTI/shrCNe7631RgdQBms" %}
 
 <details>
 

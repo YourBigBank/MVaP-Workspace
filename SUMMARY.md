@@ -30,7 +30,7 @@
     * [Expense Accounts](finance-setup/chart-of-accounts/coming-soon/expense-accounts.md)
     * [Bank Accounts](finance-setup/chart-of-accounts/coming-soon/bank-accounts.md)
     * [Assets Accounts](finance-setup/chart-of-accounts/coming-soon/assets-accounts.md)
-    * [Liability Accounts](finance-setup/chart-of-accounts/coming-soon/liability-accounts.md)
+    * [Credit Cards & Liability Accounts](finance-setup/chart-of-accounts/coming-soon/liability-accounts.md)
     * [Equity Accounts](finance-setup/chart-of-accounts/coming-soon/equity-accounts.md)
 
 ## 🚶 Finance Operations

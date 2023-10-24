@@ -4,8 +4,6 @@
 [disclaimer.md](../../../disclaimer.md)
 {% endcontent-ref %}
 
-{% embed url="https://airtable.com/appNTFkTpEMDfCcTI/shrgv8sJo2Kr2Ldzc" fullWidth="false" %}
-
-
+{% embed url="https://airtable.com/appNTFkTpEMDfCcTI/shrgLbGaK2eMec0Z2" %}
 
 <figure><img src="../../../.gitbook/assets/Bank Accounts" alt=""><figcaption></figcaption></figure>
